@@ -19,7 +19,7 @@
 <p> • It's writen solely in <b>Kotlin</b>, using <b>Firebase</b> as a backend service. </p>
 <p> It has functionalities like: <b>user authentication</b> (login, register, change password, etc), <b>Task Manager</b> (add task, delete task, complete task, change due date, etc) and many more. Go here to check it!</p>
 
-<p><h1 align="center"><a href="https://github.com/apoplawski96/music-club-journal-app">"STK-47 Warehouse Music Club" Jorunal App</a></h1></p>
+<p><h1 align="center"><a href="https://github.com/apoplawski96/music-club-journal-app">"STK-47 Warehouse Music Club" Journal App</a></h1></p>
 <img align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
 <p><h3 align="center">
   Kotlin •
