@@ -1,8 +1,8 @@
 <a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"></a>
 
-# MY OWN PROJECTS
+<h1 align="center"> MY OWN PROJECTS </h4>
 
-<p><h3>A short summary of my recent Android development acomplishments. <h3><p>
+<p><h3 align="center">A short summary of my recent Android development acomplishments. <h3><p>
  </br>
 
 <a href="https://github.com/apoplawski96/ArtistManagerApp">
