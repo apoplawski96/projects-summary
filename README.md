@@ -7,4 +7,4 @@
 <a href="https://github.com/apoplawski96/ArtistManagerApp">
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ArtistManagerApp">ArtistManagementApp</a></h1></p>
 <img align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
-<h4>Description</h4>
+<p>This app is a project for my bachelor's degree thesis. App's purpose is to provide a platform to manage and organise everyday's workload concerning the artist or the manager of a music band/music project.</p>
