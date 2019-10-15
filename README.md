@@ -2,7 +2,7 @@
 
 <h1 align="center"> MY OWN PROJECTS </h4>
 
-<p><h3 align="center">A short summary of my recent Android development acomplishments. <h3><p>
+<p><h3 align="center">A short summary of my latest Android projects. <h3><p>
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ArtistManagerApp">ArtistManagementApp</a></h1></p>
 <img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
