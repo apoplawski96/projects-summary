@@ -19,7 +19,7 @@
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/music-club-journal-app">"STK-47 Warehouse Music Club" Journal App</a></h1></p>
 <img width="300" align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/stk_app_ss_2.png" /></a>
-<img width="300" align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/stk_app_ss_1.png" /></a>
+<img width="300" align="right" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/stk_app_ss_1.png" /></a>
 <p><h3 align="center">
   Kotlin •
   MVVM •
