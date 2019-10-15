@@ -5,7 +5,7 @@
 <p><h3 align="center">A short summary of my recent Android development acomplishments. <h3><p>
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ArtistManagerApp">ArtistManagementApp</a></h1></p>
-<img align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
 <br>
 <br>
 <p><h3 align="center">
@@ -20,7 +20,7 @@
 <p> It has functionalities like: <b>user authentication</b> (login, register, change password, etc), <b>Task Manager</b> (add task, delete task, complete task, change due date, etc) and many more. Go here to check it!</p>
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/music-club-journal-app">"STK-47 Warehouse Music Club" Journal App</a></h1></p>
-<img align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/stk_app.png" /></a>
 <p><h3 align="center">
   Kotlin •
   MVVM •
