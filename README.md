@@ -18,11 +18,7 @@
 <p> It has functionalities like: <b>user authentication</b> (login, register, change password, etc), <b>Task Manager</b> (add task, delete task, complete task, change due date, etc) and many more. Go here to check it!</p>
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/music-club-journal-app">"STK-47 Warehouse Music Club" Journal App</a></h1></p>
-<img width="400" align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/stk_app_ss_2.png" /></a>
-<img width="400" align="left" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/stk_app_ss_1.png" /></a>
-<br>
-<br>
-<br>
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/stk_promo.png" /></a>
 <p><h3 align="center">
   Kotlin •
   MVVM •
@@ -30,6 +26,8 @@
   LiveData •
   Kodein
 </h3></p>
+
+
 
 <p> • This is an app made for "STK47 - Warehouse", a music club in Kraków, Poland.
 It's purpose is to store clubs' upcoming events, past events, artists that played there, and to present it in nice way,
