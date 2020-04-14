@@ -1,6 +1,6 @@
 <a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"></a>
 
-<h1 align="center"> MY OWN PROJECTS </h4>
+<h1 align="center"> MY NON-COMMERCIAL PROJECTS </h4>
 
 <p><h3 align="center">A short summary of my latest Android projects. </h3><p>
 
