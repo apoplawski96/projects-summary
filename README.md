@@ -33,6 +33,29 @@
 It's purpose is to store clubs' upcoming events, past events, artists that played there, and to present it in nice way,
 that fit's the club's theme. It's build using <b>MVVM</b> design pattern, <b>Kodein</b> for dependency injection, <b>Firebase</b>, <b>Navigation Component</b> and <b>LiveData</b>.</p>
 
+
+
+<p><h1 align="center"><a href="https://github.com/apoplawski96/music-club-journal-app">Sport Events App (Recruitment task)</a></h1></p>
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/stk_promo.png" /></a>
+<p><h3 align="center">
+  Kotlin •
+  MVVM •
+  Room •
+  Coroutines •
+  LiveData •
+  Kodein •
+  ExoPlayer •
+  Navigation •
+  Retrofit2 •
+  Glide •
+  DiffUtil
+</h3></p>
+
+<p> This app was a code challenge from my recent, successfull recruitment process. </p>
+
+<p> The app is built in <strong>MVVM</strong> design pattern, writen solely in <strong>Kotlin</strong>. For concurrency and reactive programming tools I decided to go with <strong>LiveData</strong> and <strong>Coroutines</strong>. The app fetches the data from the network using <strong>Retrofit2</strong>, then stores it locally with help of <strong>Room</strong> library. It uses <strong>Kodein</strong> for dependency injection..</p>
+
+
 ## Contact
 
 ✉️ a.poplawski96@gmail.com
