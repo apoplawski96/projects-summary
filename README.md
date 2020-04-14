@@ -51,8 +51,8 @@ that fit's the club's theme. It's build using <b>MVVM</b> design pattern, <b>Kod
   DiffUtil
 </h3></p>
 
-<p> NOTICE: This app was a code challenge from my recent, successfull recruitment process. </p>
 <p> The app is built in <strong>MVVM</strong> design pattern, writen solely in <strong>Kotlin</strong>. For concurrency and reactive programming tools I decided to go with <strong>LiveData</strong> and <strong>Coroutines</strong>. The app fetches the data from the network using <strong>Retrofit2</strong>, then stores it locally with help of <strong>Room</strong> library. It uses <strong>Kodein</strong> for dependency injection..</p>
+<p> <strong>NOTICE:</strong> This app was a code challenge from my recent, successfull recruitment process. </p>
 
 
 ## Contact
