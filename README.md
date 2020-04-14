@@ -36,7 +36,7 @@ that fit's the club's theme. It's build using <b>MVVM</b> design pattern, <b>Kod
 
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/sport-events-app">Sport Events App (Recruitment task)</a></h1></p>
-<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/recrutaskss.jpg" /></a>
+<img align="center" width="300" src="https://github.com/apoplawski96/projects-summary/blob/master/recrutaskss.jpg" /></a>
 <p><h3 align="center">
   Kotlin •
   MVVM •
