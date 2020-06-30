@@ -2,7 +2,7 @@
 
 <h1 align="center"> MY NON-COMMERCIAL PROJECTS </h4>
 
-<p><h3 align="center">A short summary of my latest Android projects. </h3><p>
+<p><h3 align="center"> NOTE: All projects included here have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h3><p>
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ArtistManagerApp">ArtistManagementApp</a></h1></p>
 <img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
