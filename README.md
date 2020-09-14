@@ -1,8 +1,34 @@
 <a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"></a>
 
 <h1 align="center"> MY NON-COMMERCIAL PROJECTS </h4>
+  
+<p><h1 align="center"><a href="https://github.com/apoplawski96/ricknmortyapiclient">RickNMorty App</a></h1></p>
 
-<p><h3 align="center"> NOTE: All projects included here have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h3><p>
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ricknmortyapiclient.jpg" /></a>
+<br> 
+<p><h4 align="center">This is a simple app that fetches data from Rick And Morty API and displays it. I wrote this app as recruitment task. It's a multi-module app built in MVP pattern, using Dagger2, RxJava and Retrofit2. </h4><p>
+  
+## Project structure
+* **ricknmorty** - contains all the app specific code
+* **app** - dependency configuration of application
+* **base** - code that could be used in different modules or apps with similar technology stack
+## Technology/Architecture overview
+### Main
+- Kotlin
+- MVP
+- RxJava2
+- Dagger2
+- Retrofit2
+- Glide
+- DiffUtil
+
+### Testing
+- JUnit
+- Mockito
+- AssertJ
+
+<p><h3 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h3><p>
+
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ArtistManagerApp">ArtistManagementApp</a></h1></p>
 <img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ArtistManagementApp.png" /></a>
