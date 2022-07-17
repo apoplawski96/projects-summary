@@ -2,6 +2,29 @@
 
 <h1 align="center"> MY NON-COMMERCIAL PROJECTS </h4>
   
+<p><h1 align="center"><a href="https://github.com/apoplawski96/dacompazzz">Compass App</a></h1></p>
+
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/DaCompazzz.jpg" /></a>
+<br> 
+<p><h4 align="center">Compass Project is a simple compass, which displays a direction for the user to follow. It has a feature
+to indicate the destination based on a geographic coordinate system. It makes it easy for the user to
+enter the latitude and longitude coordinates and navigate towards the location. I wrote this app as recruitment task which succesffully led me to the next stage. </h4><p>
+  
+### Main
+- Kotlin (~95%)
+- Java (SensorReadingNormalizer && MathUtilsLegacy classes)
+- MVP
+- Dagger 2
+- Location
+- Canvas
+
+### Testing
+- JUnit 4
+- Mockito
+- AssertJ
+
+<p><h3 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h3><p>
+  
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ricknmortyapiclient">RickNMorty App</a></h1></p>
 
 <img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/ricknmortyapiclient.jpg" /></a>
@@ -26,8 +49,6 @@
 - JUnit
 - Mockito
 - AssertJ
-
-<p><h3 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h3><p>
 
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ArtistManagerApp">ArtistManagementApp</a></h1></p>
