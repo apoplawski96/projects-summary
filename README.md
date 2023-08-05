@@ -42,6 +42,7 @@ enter the latitude and longitude coordinates and navigate towards the location. 
 <br>
 <br>
 <br>
+<p><h1></h1></p>
 <p><h1 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h1><p>
 <br>
 <br>
