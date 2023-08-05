@@ -1,6 +1,6 @@
 <a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"></a>
 
-<h1 align="center"> MY NON-COMMERCIAL PROJECTS </h4>
+<h1 align="center"> MY NON-COMMERCIAL PROJECTS / RECRUITMENT TASKS </h4>
   
 <p><h1 align="center"><a href="https://github.com/apoplawski96/dacompazzz">Compass App</a></h1></p>
 
@@ -23,7 +23,25 @@ enter the latitude and longitude coordinates and navigate towards the location. 
 - Mockito
 - AssertJ
 
-<p><h3 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h3><p>
+<p><h1 align="center"><a href="https://github.com/apoplawski96/rewardsApp">Rewards App</a></h1></p>
+
+<br> 
+<p><h4 align="center">I wrote this app as recruitment task which succesffully led me to the next stage. </h4><p>
+  
+### Main
+- Kotlin
+- MVVM
+- Multi modular
+- Clean Architecture
+- Koin
+- Compose
+- Coroutines, StateFlow
+
+### Testing
+- JUnit 5
+- Mockk
+
+<p><h1 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h1><p>
   
 <p><h1 align="center"><a href="https://github.com/apoplawski96/ricknmortyapiclient">RickNMorty App</a></h1></p>
 
