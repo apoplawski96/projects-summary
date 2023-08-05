@@ -1,4 +1,4 @@
-<a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/header.png"></a>
+<a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/apoplawski_banner.png?raw=true"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/apoplawski_banner.png?raw=true"></a>
 
 <h1 align="center"> MY NON-COMMERCIAL PROJECTS / RECRUITMENT TASKS </h4>
   
