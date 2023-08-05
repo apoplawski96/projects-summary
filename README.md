@@ -25,7 +25,6 @@ enter the latitude and longitude coordinates and navigate towards the location. 
 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/rewardsApp">Rewards App</a></h1></p>
 
-<br> 
 <p><h4 align="center">The purpose of this app is to let user to activate rewards, taking his account balance into consideration. The app has to connect with RewardsAPI that simulates regular remote API. The API also throws exceptions that have to be handled. I wrote this app as recruitment task which succesffully led me to the next stage. </h4><p>
   
 ### Main
