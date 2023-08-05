@@ -26,7 +26,7 @@ enter the latitude and longitude coordinates and navigate towards the location. 
 <p><h1 align="center"><a href="https://github.com/apoplawski96/rewardsApp">Rewards App</a></h1></p>
 
 <br> 
-<p><h4 align="center">I wrote this app as recruitment task which succesffully led me to the next stage. </h4><p>
+<p><h4 align="center">The purpose of this app is to let user to activate rewards, taking his I wrote this app as recruitment task which succesffully led me to the next stage. </h4><p>
   
 ### Main
 - Kotlin
@@ -40,6 +40,8 @@ enter the latitude and longitude coordinates and navigate towards the location. 
 ### Testing
 - JUnit 5
 - Mockk
+
+
 
 <p><h1 align="center"> NOTE: All projects included below have been created before I started working commercially as Android Developer, therefore its code, architecture and applied solutions do not reflect my current state of skills and knowledge. </h1><p>
   
