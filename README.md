@@ -1,6 +1,42 @@
 <a href="https://github.com/apoplawski96/projects-summary/blob/master/assets/apoplawski_banner.png?raw=true"><img src="https://github.com/apoplawski96/projects-summary/blob/master/assets/apoplawski_banner.png?raw=true"></a>
 
 <h1 align="center"> MY NON-COMMERCIAL PROJECTS / RECRUITMENT TASKS </h4>
+
+<p><h1 align="center"><a href="https://github.com/apoplawski96/KTI_KMM">Interview App</a></h1></p>
+
+<img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/kti_mockup.png" /></a>
+<br> 
+<br>
+"KillTheInterview" is a [Kotlin Multiplatform Mobile][kmm] app, which purpose is to help users prepare for a technical job interview. App main features are:
+- Interview simulation, using either curated questions pool or AI powered
+- Learning with curated questions & answers pool
+
+## Architecture
+
+Project is built out of [KaMPKit][kampkit], which is a starter project for Kotlin Multiplatform Mobile apps.
+The app is written in MVVM/MVI, aiming to follow [Modern App Architecture][modernAppArchitecture] guidelines throughout both, Android and KMM modules.
+
+### Objectives:
+- Layered architecture with data, domain & UI layers
+- Unidireactional Data Flow, Single Soure Of Truth
+- Sharing as much code as possible in KMM module, so it can be reused throughout platforms
+- Testability
+
+Android module follows single-Activity architecture with Compose Navigation, where each screen has its own ViewModel from KMM module. iOS module development is not yet started.
+  
+### Tech stack:
+- Kotlin Multiplatform Mobile
+- MVVM/MVI
+- Coroutines, Flows
+- Compose
+- Koin
+- OpenAI API
+- SQL Delight
+- Json
+
+ [modernAppArchitecture]: https://developer.android.com/topic/architecture#modern-app-architecture
+ [kmm]: https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html
+ [kampkit]: https://github.com/touchlab/KaMPKit
   
 <p><h1 align="center"><a href="https://github.com/apoplawski96/dacompazzz">Compass App</a></h1></p>
 
