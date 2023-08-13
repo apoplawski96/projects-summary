@@ -22,6 +22,21 @@ enter the latitude and longitude coordinates and navigate towards the location. 
 - Mockito
 - AssertJ
 
+<p><h1 align="center"><a href="https://github.com/apoplawski96/medium-code-samples">Medium Code Samples</a></h1></p>
+This is a repository where I host ready-to-compile practical examples for my Medium articles/tutorials.
+<br>
+https://medium.com/@a.poplawski96
+  
+### Tech stack:
+- Kotlin
+- MVVM\MVI
+- Clean Architecture / Modern App Architecture
+- Koin
+- Compose
+- Coroutines, StateFlow
+- JUnit 5
+- Mockk
+
 <p><h1 align="center"><a href="https://github.com/apoplawski96/rewardsApp">Rewards App</a></h1></p>
 The purpose of this app is to let user to activate rewards, taking his account balance into consideration. The app has to connect with RewardsAPI that simulates regular remote API. The API also throws exceptions that have to be handled. I wrote this app as recruitment task which succesffully led me to the next stage.
   
