@@ -2,7 +2,7 @@
 
 <h1 align="center"> MY NON-COMMERCIAL PROJECTS / RECRUITMENT TASKS </h4>
 
-<p><h1 align="center"><a href="https://github.com/apoplawski96/KTI_KMM">Interview App</a></h1></p>
+<p><h1 align="center"><a href="https://github.com/apoplawski96/kti-multiplatform">Interview App</a></h1></p>
 
 <img align="center" src="https://github.com/apoplawski96/projects-summary/blob/master/assets/kti_mockup.png" /></a>
 <br> 
